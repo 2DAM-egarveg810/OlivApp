@@ -1,8 +1,8 @@
-# 🌿 OlivaApp – Gestión Digital para Cooperativas de Aceite
+# 🌿 OlivaSys – Gestión Digital para Cooperativas de Aceite
 
 > **Digitaliza tu cosecha, traza tu aceite, fortalece tu cooperativa.**
 
-OlivaApp es un sistema de gestión **libre y ético** diseñado específicamente para cooperativas agrícolas andaluzas. Permite registrar la entrada de aceitunas por parcela, gestionar cooperativistas, generar lotes y emitir informes de trazabilidad —todo con transparencia y soberanía tecnológica.
+OlivaSys es un sistema de gestión **libre y ético** diseñado específicamente para cooperativas agrícolas andaluzas. Permite registrar la entrada de aceitunas por parcela, gestionar cooperativistas, generar lotes y emitir informes de trazabilidad, todo con transparencia y soberanía tecnológica.
 
 ## Funcionalidades
 
@@ -12,7 +12,7 @@ OlivaApp es un sistema de gestión **libre y ético** diseñado específicamente
 
 ## Modelo de negocio
 
-OlivaApp es **software libre bajo licencia GPL-3.0**.  
+OlivaSys es **software libre bajo licencia GPL-3.0**.  
 Esto significa que **cualquiera puede usarlo, estudiarlo y mejorarlo**, pero si lo redistribuye, debe mantenerlo libre.
 
 Nosotros ofrecemos:
@@ -30,8 +30,8 @@ Ver [LICENSE](./LICENSE) para más detalles.
 
 ## Desarrollado con propósito
 
-OlivaApp nace del compromiso con la **agricultura sostenible**, la **economía social** y la **tecnología al servicio de las personas**, no de los monopolios.
+OlivaSys nace del compromiso con la **agricultura sostenible**, la **economía social** y la **tecnología al servicio de las personas**, no de los monopolios.
 
 ---
 
-© 2025 OlivApp — Software libre para el campo andaluz.
+© 2025 OlivaSys — Software libre para el campo andaluz.
